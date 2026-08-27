@@ -1,0 +1,22 @@
+{
+  "best_model": "Gradient Boosting",
+  "k_clusters": 4,
+  "silhouette_score": 0.6631710971467456,
+  "archetype_map": {
+    "3": "Market Leaders",
+    "1": "Casual Hits",
+    "0": "Meme/Viral Games",
+    "2": "Abandoned Projects"
+  },
+  "model_performance": {
+    "Random Forest": {
+      "auc": 0.8688474796531425
+    },
+    "Gradient Boosting": {
+      "auc": 0.8732342456187295
+    },
+    "Logistic Regression": {
+      "auc": 0.7654318613373505
+    }
+  }
+}
